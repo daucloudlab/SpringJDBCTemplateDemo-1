@@ -5,7 +5,7 @@
 
 <html>
 <head>
-  <title>Being Java Guys | Spring DI Hello World</title>
+  <title>User List</title>
   <style>
     body {
       font-size: 20px;
